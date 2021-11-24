@@ -1,0 +1,21 @@
+.about {
+    background-color: #fff;
+    margin: 24px;
+    width: 25rem;
+    border-style: outset;
+    border-radius: 15px;
+    border-color: #abc4c4;
+    border-width: 4px;
+    box-shadow: 0 5px 10px #131313bf;
+    transition: transform .5s;
+}
+
+.about:hover {
+    border-color: yellow;
+    transform: scale(1.1);
+}
+
+.img {
+    border-radius: 50%;
+    width: 12rem;
+}

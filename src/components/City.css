@@ -1,0 +1,22 @@
+.city {
+    background-color: #fff;
+    margin: 20px;
+    width: 22rem;
+    border-style: outset;
+    border-radius: 15px;
+    border-color: #abc4c4;
+    border-width: 4px;
+    box-shadow: 0 5px 10px #131313bf;
+    transition: transform .5s;
+}
+
+.city:hover {
+  border-color: yellow;
+  transform: scale(1.1);
+}
+
+.btn {
+    margin: 1rem 1rem 0.5rem 1rem;
+    border-width: 5px;
+    border-style: outset;
+}
